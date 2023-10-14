@@ -1,0 +1,15 @@
+td,
+th,
+tr {
+  color: white;
+  font-family: sans-serif;
+  border-collapse: collapse;
+}
+
+tr {
+  text-align: center;
+}
+
+.fn {
+  width: 100px;
+}
